@@ -1,0 +1,15 @@
+C:\Users\Kaiser\Desktop\librarySystem\bin\Debug\net6.0\librarySystem.exe
+C:\Users\Kaiser\Desktop\librarySystem\bin\Debug\net6.0\librarySystem.deps.json
+C:\Users\Kaiser\Desktop\librarySystem\bin\Debug\net6.0\librarySystem.runtimeconfig.json
+C:\Users\Kaiser\Desktop\librarySystem\bin\Debug\net6.0\librarySystem.dll
+C:\Users\Kaiser\Desktop\librarySystem\bin\Debug\net6.0\librarySystem.pdb
+C:\Users\Kaiser\Desktop\librarySystem\obj\Debug\net6.0\librarySystem.csproj.AssemblyReference.cache
+C:\Users\Kaiser\Desktop\librarySystem\obj\Debug\net6.0\librarySystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kaiser\Desktop\librarySystem\obj\Debug\net6.0\librarySystem.AssemblyInfoInputs.cache
+C:\Users\Kaiser\Desktop\librarySystem\obj\Debug\net6.0\librarySystem.AssemblyInfo.cs
+C:\Users\Kaiser\Desktop\librarySystem\obj\Debug\net6.0\librarySystem.csproj.CoreCompileInputs.cache
+C:\Users\Kaiser\Desktop\librarySystem\obj\Debug\net6.0\librarySystem.dll
+C:\Users\Kaiser\Desktop\librarySystem\obj\Debug\net6.0\refint\librarySystem.dll
+C:\Users\Kaiser\Desktop\librarySystem\obj\Debug\net6.0\librarySystem.pdb
+C:\Users\Kaiser\Desktop\librarySystem\obj\Debug\net6.0\librarySystem.genruntimeconfig.cache
+C:\Users\Kaiser\Desktop\librarySystem\obj\Debug\net6.0\ref\librarySystem.dll
