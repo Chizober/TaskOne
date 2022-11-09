@@ -1,0 +1,15 @@
+C:\Users\Kaiser\Desktop\BestPractices\bin\Debug\net6.0\BestPractices.exe
+C:\Users\Kaiser\Desktop\BestPractices\bin\Debug\net6.0\BestPractices.deps.json
+C:\Users\Kaiser\Desktop\BestPractices\bin\Debug\net6.0\BestPractices.runtimeconfig.json
+C:\Users\Kaiser\Desktop\BestPractices\bin\Debug\net6.0\BestPractices.dll
+C:\Users\Kaiser\Desktop\BestPractices\bin\Debug\net6.0\BestPractices.pdb
+C:\Users\Kaiser\Desktop\BestPractices\obj\Debug\net6.0\BestPractices.csproj.AssemblyReference.cache
+C:\Users\Kaiser\Desktop\BestPractices\obj\Debug\net6.0\BestPractices.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kaiser\Desktop\BestPractices\obj\Debug\net6.0\BestPractices.AssemblyInfoInputs.cache
+C:\Users\Kaiser\Desktop\BestPractices\obj\Debug\net6.0\BestPractices.AssemblyInfo.cs
+C:\Users\Kaiser\Desktop\BestPractices\obj\Debug\net6.0\BestPractices.csproj.CoreCompileInputs.cache
+C:\Users\Kaiser\Desktop\BestPractices\obj\Debug\net6.0\BestPractices.dll
+C:\Users\Kaiser\Desktop\BestPractices\obj\Debug\net6.0\refint\BestPractices.dll
+C:\Users\Kaiser\Desktop\BestPractices\obj\Debug\net6.0\BestPractices.pdb
+C:\Users\Kaiser\Desktop\BestPractices\obj\Debug\net6.0\BestPractices.genruntimeconfig.cache
+C:\Users\Kaiser\Desktop\BestPractices\obj\Debug\net6.0\ref\BestPractices.dll
