@@ -1,0 +1,15 @@
+C:\Users\Kaiser\Desktop\maskedString\obj\Debug\net6.0\maskedString.csproj.AssemblyReference.cache
+C:\Users\Kaiser\Desktop\maskedString\obj\Debug\net6.0\maskedString.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kaiser\Desktop\maskedString\obj\Debug\net6.0\maskedString.AssemblyInfoInputs.cache
+C:\Users\Kaiser\Desktop\maskedString\obj\Debug\net6.0\maskedString.AssemblyInfo.cs
+C:\Users\Kaiser\Desktop\maskedString\obj\Debug\net6.0\maskedString.csproj.CoreCompileInputs.cache
+C:\Users\Kaiser\Desktop\maskedString\bin\Debug\net6.0\maskedString.exe
+C:\Users\Kaiser\Desktop\maskedString\bin\Debug\net6.0\maskedString.deps.json
+C:\Users\Kaiser\Desktop\maskedString\bin\Debug\net6.0\maskedString.runtimeconfig.json
+C:\Users\Kaiser\Desktop\maskedString\bin\Debug\net6.0\maskedString.dll
+C:\Users\Kaiser\Desktop\maskedString\bin\Debug\net6.0\maskedString.pdb
+C:\Users\Kaiser\Desktop\maskedString\obj\Debug\net6.0\maskedString.dll
+C:\Users\Kaiser\Desktop\maskedString\obj\Debug\net6.0\refint\maskedString.dll
+C:\Users\Kaiser\Desktop\maskedString\obj\Debug\net6.0\maskedString.pdb
+C:\Users\Kaiser\Desktop\maskedString\obj\Debug\net6.0\maskedString.genruntimeconfig.cache
+C:\Users\Kaiser\Desktop\maskedString\obj\Debug\net6.0\ref\maskedString.dll
